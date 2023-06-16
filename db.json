@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "stuname": "sam",
+      "email": "sam@gmail.com",
+      "id": 3
+    },
+    {
+      "stuname": "jack",
+      "email": "jack@gmail.com",
+      "id": 4
+    },
+    {
+      "stuname": "test",
+      "email": "jeck@gmail.com",
+      "id": 5
+    },
+    {
+      "stuname": "test",
+      "email": "jeck@gmail.com",
+      "id": 7
+    },
+    {
+      "stuname": "test",
+      "email": "test16@codeclouds.com",
+      "id": 8
+    },
+    {
+      "stuname": "test",
+      "email": "rahul@gmail.com",
+      "id": 9
+    },
+    {
+      "stuname": "bikash",
+      "email": "bikash@gmail.com",
+      "id": 10
+    },
+    {
+      "stuname": "test",
+      "email": "jack@gmail.com",
+      "id": 11
+    }
+  ]
+}
